@@ -1,0 +1,31 @@
+ #include   < math.h  >;
+main (         
+                  )
+constants int x =   5;
+    int        y;
+float x,z   
+      ;
+{
+
+       {
+while( x  ==   5 )do ++y;
+}          ;
+
+if   ( x<5 ) ++x else --x endif;
+       
+cin>>x;  cout<<y ;       }
+
+
+
+
+halt
+
+
+
+
+
+
+
+
+
+

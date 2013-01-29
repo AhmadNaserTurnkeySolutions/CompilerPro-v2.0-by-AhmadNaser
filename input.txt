@@ -1,0 +1,27 @@
+#include < stdio.h >;
+#include < string.h >;
+
+main()
+	constants char x = 56.0;
+	int y;
+	int x;
+{
+	;
+	;
+	;
+	y = 3;
+	while(y != x)
+	do
+		cin            >>                    y,x;
+		x = -3.7;
+		x= (((-3))  +   (2) + ((y -  3)));
+		
+		{
+		x= +3 - -2 +1 + (-1.02);
+			x = 4;
+			x=x%2;
+			x%=2;
+		};
+}
+
+halt
